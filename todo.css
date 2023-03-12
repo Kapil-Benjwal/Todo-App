@@ -1,0 +1,16 @@
+.todo{
+    text-align: center;
+    background-color: rgb(230, 215, 245);
+    width: 40%;
+    border-radius: 5px;
+}
+.todo-content{
+    justify-content: center;
+    display: flex;
+    border-radius: 10px;
+    width:100%;
+}
+.displayMessage{
+    border: 2px sold black;
+    background-color: aqua;
+}
